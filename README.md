@@ -30,7 +30,3 @@ Tài liệu nội dung số được lưu trong repository.
 - Google Docs
 - Google Drive
 
-## 6. Kết luận
-
-Qua bài thực hành, em đã thực hiện được việc tạo,
-quản lý và chia sẻ nội dung số bằng các công cụ trực tuyến.
